@@ -1,1 +1,1 @@
-rootProject.name = "ThirtyDaysChallenge"
+rootProject.name = "GPTChallenge"
